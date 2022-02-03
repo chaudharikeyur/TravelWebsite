@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 92vh;
+  }
+
+.ab{
+    width: 100%;
+    height: 350px!important;
+}  
+
